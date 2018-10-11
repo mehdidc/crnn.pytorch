@@ -1,8 +1,8 @@
 from setuptools import setup
 
-description = 'crnn'
+description = 'crnn_pytorch'
 setup(
-    name="crnn",
+    name="crnn_pytorch",
     version="0.1",
     author_email="mehdicherti@gmail.com",
     description=description,
